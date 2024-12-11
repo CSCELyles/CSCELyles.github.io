@@ -12,7 +12,7 @@ h1{
  } 
 .project
  {
-width: 30%;
+width: 28%;
 margin: 10px;
 padding: 20px 10px;
 background: white;
@@ -28,11 +28,11 @@ a {
     }
 .project img{
     width: 400px;
-    height: 400px;
+    height: 300px;
     margin: 40px;
     border: 2px solid rgb(126, 14, 201); 
     display: block;
-    margin: auto;
+    margin:  auto;
     }
 
     h3{
@@ -57,5 +57,9 @@ a {
             text-align: center;
             margin: auto;
             line-height: 125%;
+            }
+            h2{
+                text-align: left;
+                color: black;
             }
             
